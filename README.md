@@ -1,2 +1,2 @@
 # Kaggle_uploads
-all kaggle uploads competitons,datasets,kernels
+all My kaggle uploads competitons,datasets,kernels
